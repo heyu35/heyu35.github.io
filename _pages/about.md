@@ -19,7 +19,7 @@ Education Experiences
 
 Publications
 ======
-1. Liang YY#, Zhou M#, He Y#, Zhang W, Wu Q, Luo T, Zhang J, Jia F, Qi L*, Ai S*, Zhang JH*. Observational and genetic evidence disagree on the association between loneliness and risk of multiple diseases. Nat Hum Behav. 2024
-2. Liang YY#, He Y#, Huang P, Li H, Ai S, Du J, Xue H, Liu Y, Zhang J, Qi L*, Zhang JH*. Accelerometer-measured physical activity, sedentary behavior, and incidence of macrovascular and microvascular events in individuals with type 2 diabetes mellitus and prediabetes. J Sport Health Sci. 2024
-3. Liang YY#, He Y#, Wang J, Liu Y, Ai S, Feng H, Zhu C, Li H, Zhou Y, Zhang JH, Zhang J*, Qi L*. Social isolation, loneliness, and risk of microvascular complications among individuals with type 2 diabetes mellitus. Am J Kidney Dis. 2024
-4. He Y#, Wang J#, Zhang W#, Chen X, Wu Q, Li Y, Ou Y, Liu Y, Feng H, Zhang JH, Ai S, Zhang JH, Liang YY, Ning Y*, Zhang J*. Device-measured physical activity, sedentary behavior, and risk of incident chronic kidney diseases across levels of grip strength. J Cachexia Sarcopenia Muscle. 2025
+1. Liang YY#, Zhou M#, He Y#, Zhang W, Wu Q, Luo T, Zhang J, Jia F, Qi L, Ai S, Zhang JH. Observational and genetic evidence disagree on the association between loneliness and risk of multiple diseases. Nat Hum Behav. 2024
+2. Liang YY#, He Y#, Huang P, Li H, Ai S, Du J, Xue H, Liu Y, Zhang J, Qi L, Zhang JH. Accelerometer-measured physical activity, sedentary behavior, and incidence of macrovascular and microvascular events in individuals with type 2 diabetes mellitus and prediabetes. J Sport Health Sci. 2024
+3. Liang YY#, He Y#, Wang J, Liu Y, Ai S, Feng H, Zhu C, Li H, Zhou Y, Zhang JH, Zhang J, Qi L. Social isolation, loneliness, and risk of microvascular complications among individuals with type 2 diabetes mellitus. Am J Kidney Dis. 2024
+4. He Y#, Wang J#, Zhang W#, Chen X, Wu Q, Li Y, Ou Y, Liu Y, Feng H, Zhang JH, Ai S, Zhang JH, Liang YY, Ning Y, Zhang J. Device-measured physical activity, sedentary behavior, and risk of incident chronic kidney diseases across levels of grip strength. J Cachexia Sarcopenia Muscle. 2025
