@@ -13,9 +13,9 @@ Email: 2511110258@bjmu.edu.cn
 
 Education Experiences
 ======
-Ph.D.: Peking University, 2025/09-present, Major: Internal medicine; 
-Postgraduate: Sun Yat-Sen University 2022/09-2025/06, Major: Internal medicine; 
-Undergraduate: Sun Yat-Sen University 2017/09-2022/06, Major: Clinical medicine.
+1. Ph.D.: Peking University, 2025/09-present, Major: Internal medicine;
+2. Postgraduate: Sun Yat-Sen University 2022/09-2025/06, Major: Internal medicine;
+3. Undergraduate: Sun Yat-Sen University 2017/09-2022/06, Major: Clinical medicine.
 
 Publications
 ======
