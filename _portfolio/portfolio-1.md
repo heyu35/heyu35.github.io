@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Huachen Xue"
+excerpt: "I am a DPH student at MUST and focus on psychosocial health.<br/><img src='/images/huachen.png'>"
 collection: portfolio
 ---
 
