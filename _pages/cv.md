@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D.: Peking University, 2025/09-present, Major: Internal medicine;
-* Postgraduate: Sun Yat-Sen University 2022/09-2025/06, Major: Internal medicine;
-* Undergraduate: Sun Yat-Sen University 2017/09-2022/06, Major: Clinical medicine.
+* Postgraduate: Sun Yat-Sen University, 2022/09-2025/06, Major: Internal medicine;
+* Undergraduate: Sun Yat-Sen University, 2017/09-2022/06, Major: Clinical medicine.
 
   
 Skills
