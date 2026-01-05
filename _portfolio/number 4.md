@@ -46,9 +46,9 @@ AUC = 0.781，这表明模型对于 CKD 患者中 AKI 发病具有较好的预�
 核心实现
 ======
 以下是核心代码的实现：
-`python
+```
 #数据处理部分
-# 处理缺失值
+#处理缺失值
 data = data.dropna()
  # 提取特征并进行基线资料的比较
 columns = ['age', 'sex', 'Ethnicity', 'region', "TDI","Employment","education_level","Final_Healthy_diet_score","Smoking","alcohol_intake",
@@ -90,4 +90,5 @@ for i in range(1, max_clusters + 1):
         n_init=10)
     kmeans.fit(data_clustering_scaled)
     wcss.append(kmeans.inertia_)
-    print(f"Number of clusters={i}, WCSS={kmeans.inertia_:.2f}")`
+    print(f"Number of clusters={i}, WCSS={kmeans.inertia_:.2f}")
+```
