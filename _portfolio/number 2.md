@@ -1,5 +1,5 @@
 ---
-title: "Yu Nie"
-excerpt: "I am a principal investigator specializing in psychosomatic medicine.<br/><img src='/images/nie.png'>"
+title: "箱线图"
+excerpt: "基于结局不同变量的特征比较。<br/><img src='/images/portfolio/data-analysis-visualization/Boxplot_Variables_Distribution_01.png'>"
 collection: portfolio
 ---
