@@ -2,11 +2,8 @@
 title: "综合数据分析与可视化项目"
 collection: portfolio
 type: "Data Analysis"
-permalink: /portfolio/comprehensive-data-analysis-visualization
+permalink: /portfolio/cdata-analysis-visualization
 date: 2026-01-05
-excerpt: "综合运用数据分析和可视化手段，完成关键变量分布探索、变量特征比较以及模型评估工作"
-header:
-  teaser: /images/portfolio/data-analysis-visualization/CM_01.png  
 tags:
   - 数据分析
   - 数据可视化
@@ -21,6 +18,8 @@ tech_stack:
   - name: Seaborn
 ---
 
+综合运用数据分析和可视化手段，完成关键变量分布探索、变量特征比较以及模型评估工作
+
 项目背景
 ======
 在数据分析过程中，我们不仅需要对数据的关键变量分布进行探索，还需要比较基于不同结局的变量特征，同时对建立的模型进行评估。本项目通过数据可视化的方式，使用直方图、箱线图、混淆矩阵和 ROC 曲线等工具，完成了上述工作，为数据分析和决策提供了直观的依据。
@@ -28,7 +27,6 @@ tech_stack:
 核心实现
 ======
 以下是核心代码的实现：
-```python
 # 数据处理部分
 def data_preprocessing(data):
     # 处理缺失值
@@ -42,7 +40,7 @@ from sklearn.linear_model import LogisticRegression
 model = LogisticRegression()
 # 模型训练部分
 features, labels = data_preprocessing(data)
-model.fit(features, labels)```
+model.fit(features, labels)
 
 分析结果
 ======
