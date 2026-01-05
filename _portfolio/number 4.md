@@ -6,7 +6,7 @@ permalink: /portfolio/comprehensive-data-analysis-visualization
 date: 2026-01-05
 excerpt: "综合运用数据分析和可视化手段，完成关键变量分布探索、变量特征比较以及模型评估工作"
 header:
-  teaser: /images/portfolio/comprehensive-data-analysis-visualization/CM_01.png  
+  teaser: /images/portfolio/data-analysis-visualization/CM_01.png  
 tags:
   - 数据分析
   - 数据可视化
@@ -47,17 +47,17 @@ model.fit(features, labels)
 分析结果
 ======
 #### 关键变量分布特征
-![关键变量分布直方图](/images/portfolio/comprehensive-data-analysis-visualization/Key_Variables_Distribution_01.png)
+![关键变量分布直方图](/images/portfolio/data-analysis-visualization/Key_Variables_Distribution_01.png)
 通过该直方图，我们可以直观地看到关键变量的分布情况，有助于把握数据的集中趋势和离散程度。
 
 #### 基于结局不同变量的特征比较
-![基于结局不同变量的箱线图](/images/portfolio/comprehensive-data-analysis-visualization/Boxplot_Variables_Distribution_01.png)
+![基于结局不同变量的箱线图](/images/portfolio/data-analysis-visualization/Boxplot_Variables_Distribution_01.png)
 此箱线图展示了基于不同结局的变量特征差异，为进一步分析和决策提供了依据。
 
 #### 模型评估 - 混淆矩阵
-![混淆矩阵](/images/portfolio/comprehensive-data-analysis-visualization/CM_01.png)
+![混淆矩阵](/images/portfolio/data-analysis-visualization/CM_01.png)
 混淆矩阵提示，模型对于 AKI 的发病预测准确性较高，说明模型在这方面有较好的表现。
 
 #### 模型评估 - ROC 曲线
-![ROC 曲线](/images/portfolio/comprehensive-data-analysis-visualization/ROC_01.png)
+![ROC 曲线](/images/portfolio/data-analysis-visualization/ROC_01.png)
 AUC = 0.781，这表明模型对于 CKD 患者中 AKI 发病具有较好的预测效能。
