@@ -28,9 +28,8 @@ tech_stack:
 核心实现
 ======
 以下是核心代码的实现：
-# 数据处理部分
-# 假设这里是对数据进行清洗和特征工程
 ```python
+# 数据处理部分
 def data_preprocessing(data):
     # 处理缺失值
     data = data.dropna()
