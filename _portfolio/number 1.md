@@ -33,7 +33,3 @@ for idx, var in enumerate(vars_to_plot):
         edgecolor='black',   
         linewidth=0.5,       
         ax=axs_flat[idx])
-
-    fontsize=18, 
-    fontweight='bold', 
-    y=1.02)
