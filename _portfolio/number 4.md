@@ -42,7 +42,7 @@ from sklearn.linear_model import LogisticRegression
 model = LogisticRegression()
 # 模型训练部分
 features, labels = data_preprocessing(data)
-model.fit(features, labels)
+model.fit(features, labels)```
 
 分析结果
 ======
