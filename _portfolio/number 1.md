@@ -1,6 +1,6 @@
 ---
-title: "Huachen Xue"
-excerpt: "I am a DPH student at MUST and focus on psychosocial health.<br/><img src='/images/huachen.png'>"
+title: "直方图"
+excerpt: "关键变量的分布特征.<br/><img src='/images/portfolio/data-analysis-visualization/Key_Variables_Distribution_01.png'>"
 collection: portfolio
 ---
 
