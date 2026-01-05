@@ -4,7 +4,7 @@ collection: portfolio
 type: "Data Analysis"
 permalink: /portfolio/comprehensive-data-analysis-visualization
 date: 2026-01-05
-excerpt: "综合运用数据分析和可视化手段，完成关键变量分布探索、变量特征比较以及模型评估工作<br/><img src='/images/portfolio/comprehensive-data-analysis-visualization/Key_Variables_Distribution_01.png'>"
+excerpt: "综合运用数据分析和可视化手段，完成关键变量分布探索、变量特征比较以及模型评估工作"
 header:
   teaser: /images/portfolio/comprehensive-data-analysis-visualization/teaser.png  # 你可以从四张图中选一张作为 teaser
 tags:
@@ -19,7 +19,6 @@ tech_stack:
   - name: Python
   - name: Matplotlib
   - name: Seaborn
----
 
 ### 项目背景 (Background)
 在数据分析过程中，我们不仅需要对数据的关键变量分布进行探索，还需要比较基于不同结局的变量特征，同时对建立的模型进行评估。本项目通过数据可视化的方式，使用直方图、箱线图、混淆矩阵和 ROC 曲线等工具，完成了上述工作，为数据分析和决策提供了直观的依据。
@@ -43,3 +42,4 @@ tech_stack:
 #### 模型评估 - ROC 曲线
 ![ROC 曲线](/images/portfolio/comprehensive-data-analysis-visualization/ROC_01.png)
 RUC = 0.781，这表明模型对于 CKD 患者中 AKI 发病具有较好的预测效能。
+---
