@@ -1,5 +1,5 @@
 ---
-title: "Million Liu"
-excerpt: "Million, a female Maltipoo (spayed), born in December 2023. She’s a total ray of sunshine— the second-born princess at home. Her whole vibe? Eating! She loves munching on everything, and her favorite snack low-key? Cat food. Pro tip: If something goes missing in the house, check her dog bed— it’s probably there!.<br/><img src='/images/million.png'>"
+title: "2. 模型评估结果：ROC曲线"
+excerpt: "RUC=0.781，说明模型对于CKD患者中AKI发病具有较好的预测效能<br/><img src='/images/portfolio/data-analysis-visualization/ROC_01.png'>"
 collection: portfolio
 ---
