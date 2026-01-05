@@ -58,7 +58,7 @@ groupby = "Incidental.AKI.HDC.ICD10"
 table = TableOne(data,columns=columns,categorical=categorical,groupby=groupby,pval=True)
 #特征分析直方图以及箱线图绘制
 for idx, var in enumerate(vars_to_plot):
-    sns.histplot(x=var,data=data,alpha=0.7,kde=True,color=plt.cm.Set2(idx/len(vars_to_plot)),edgecolor='black'linewidth=0.5,ax=axs_flat[idx])
+    sns.histplot(x=var,data=data,alpha=0.7,kde=True,color=plt.cm.Set2(idx/len(vars_to_plot)),edgecolor='black',linewidth=0.5,ax=axs_flat[idx])
 for idx, var in enumerate(vars_to_plot):
     sns.boxplot(data=data,x=group_var,y=var,ax=axs_flat[idx],palette='Set2',linewidth=1,fliersize=2)
 #模型构建
