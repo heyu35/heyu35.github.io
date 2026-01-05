@@ -24,4 +24,4 @@ tech_stack:
 ```python
 for idx, var in enumerate(vars_to_plot):
     # 绘制单个变量的直方图，添加核密度估计曲线
-    sns.histplot(x=var, data=data, alpha=0.7, kde=True, color=plt.cm.Set2(idx/len(vars_to_plot)), edgecolor='black',  linewidth=0.5, ax=axs_flat[idx])
+    sns.histplot(x=var, data=data, alpha=0.7, kde=True, color=plt.cm.Set2(idx/len(vars_to_plot)), edgecolor='black', linewidth=0.5, ax=axs_flat[idx])
