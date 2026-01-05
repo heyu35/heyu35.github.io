@@ -3,7 +3,7 @@ title: "探索数据分析可视化：直方图"
 collection: portfolio
 type: "Data Analysis"
 permalink: /portfolio/data-analysis-visualization
-date: 2024-11-12
+date: 2026-1-5
 excerpt: "关键变量的分布特征<br/><img src='/images/portfolio/data-analysis-visualization/Key_Variables_Distribution_01.png'>"
 header:
   teaser: /images/portfolio/data-analysis-visualization/teaser.png
