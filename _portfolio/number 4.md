@@ -2,7 +2,7 @@
 title: "综合数据分析与可视化项目"
 collection: portfolio
 type: "Data Analysis"
-permalink: /portfolio/cdata-analysis-visualization
+permalink: /portfolio/
 date: 2026-01-05
 tags:
   - 数据分析
