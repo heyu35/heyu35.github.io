@@ -24,23 +24,6 @@ tech_stack:
 ======
 在数据分析过程中，我们不仅需要对数据的关键变量分布进行探索，还需要比较基于不同结局的变量特征，同时对建立的模型进行评估。本项目通过数据可视化的方式，使用直方图、箱线图、混淆矩阵和 ROC 曲线等工具，完成了上述工作，为数据分析和决策提供了直观的依据。
 
-核心实现
-======
-以下是核心代码的实现：
-#数据处理部分
-def data_preprocessing(data):
-    # 处理缺失值
-    data = data.dropna()
-    # 提取特征
-    features = data[['feature1', 'feature2']]
-    labels = data['label']
-    return features, labels
-#模型定义部分
-from sklearn.linear_model import LogisticRegression
-model = LogisticRegression()
-#模型训练部分
-features, labels = data_preprocessing(data)
-model.fit(features, labels)
 
 分析结果
 ======
@@ -59,3 +42,22 @@ model.fit(features, labels)
 #### 模型评估 - ROC 曲线
 ![ROC 曲线](/images/portfolio/data-analysis-visualization/ROC_01.png)
 AUC = 0.781，这表明模型对于 CKD 患者中 AKI 发病具有较好的预测效能。
+
+核心实现
+======
+以下是核心代码的实现：
+```python
+#数据处理部分
+def data_preprocessing(data):
+    # 处理缺失值
+    data = data.dropna()
+    # 提取特征
+    features = data[['feature1', 'feature2']]
+    labels = data['label']
+    return features, labels
+#模型定义部分
+from sklearn.linear_model import LogisticRegression
+model = LogisticRegression()
+#模型训练部分
+features, labels = data_preprocessing(data)
+model.fit(features, labels)
