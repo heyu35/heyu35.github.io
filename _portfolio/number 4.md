@@ -27,7 +27,7 @@ tech_stack:
 核心实现
 ======
 以下是核心代码的实现：
-# 数据处理部分
+#数据处理部分
 def data_preprocessing(data):
     # 处理缺失值
     data = data.dropna()
@@ -35,10 +35,10 @@ def data_preprocessing(data):
     features = data[['feature1', 'feature2']]
     labels = data['label']
     return features, labels
-# 模型定义部分
+#模型定义部分
 from sklearn.linear_model import LogisticRegression
 model = LogisticRegression()
-# 模型训练部分
+#模型训练部分
 features, labels = data_preprocessing(data)
 model.fit(features, labels)
 
