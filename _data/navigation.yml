@@ -13,6 +13,9 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Team"
+    url: /teams/
     
   - title: "CV"
     url: /cv/
