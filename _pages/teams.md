@@ -10,5 +10,5 @@ author_profile: true
 I am a DPH student at MUST and focus on psychosocial health
 
 #### Yu Nie
-![聂雨](/images/nieyu.png)
+![聂雨](/images/nie.png)
 I am a principal investigator specializing in psychosomatic medicine.
