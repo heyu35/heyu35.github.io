@@ -1,9 +1,8 @@
-
 ---
 title: "Data Analysis and Visualization"
 collection: portfolio
 type: "Data Analysis"
-permalink: /portfolio/
+permalink: /teams/
 date: 2026-01-05
 tags:
   - Data Analysis
